@@ -1,0 +1,37 @@
+body{
+	background-color: ##FFB6C1;
+	background-image: url(https://img.wattpad.com/593b1744697d689c0041e29dcc33c840d0219032/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6e6f79725954724a6c70474852673d3d2d313132323331353137342e313639663936316264343936333661613230383233363733303735332e676966);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+	background-size: 350px;
+}
+p{
+	font-size: 15mm;
+	color: black;
+	background-image:
+ url(https://i.ytimg.com/vi/7-tpn8aKDS8/maxresdefault.jpg);
+background-size: cover;
+}
+.img1{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius: 20%;
+	box-shadow: 20px 20px 50px #000000;
+}
+.img2{
+	
+}
+.d1{
+	width: 300px;
+	height: 300px;
+	background-image: url(https://1.bp.blogspot.com/-JA4NoAfllFM/YNIKwk0_S3I/AAAAAAADRPw/1i9B1WFE6D8UgDl-pBbuwTzl3cAY8ay_ACLcBGAsYHQ/s2048/E4fqmAAXEAYYtnJ.jpg);
+    background-size: cover;
+}
+.d2{
+	width: 300px;
+	height: 300px;
+	background: linear-gradient(45deg,rgba(233, 78, 55, 0.5), rgba(0, 0, 255, 0.5)), url(https://1.bp.blogspot.com/-JA4NoAfllFM/YNIKwk0_S3I/AAAAAAADRPw/1i9B1WFE6D8UgDl-pBbuwTzl3cAY8ay_ACLcBGAsYHQ/s2048/E4fqmAAXEAYYtnJ.jpg);
+	background-size: cover;
+}

@@ -1,0 +1,10 @@
+body{
+	background-image: url(https://cdn.crispedge.com/9a0200.png);
+	background-size: cover;
+}
+P{
+	font-size: 50pt;
+}
+.p1{
+	background: repeating-linear-gradient(45deg, red 10%, white 20%);
+}

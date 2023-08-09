@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@900&display=swap');
+body{
+	background-image: url(https://bogatyr.club/uploads/posts/2021-11/thumbs/1636944144_3-bogatyr-club-p-temno-krasnii-fon-odnotonnii-3.png);
+	background-size: cover;
+	
+}
+P{
+	font-size: 30pt;
+font-family: 'Noto Serif KR', serif;
+text-align: center;
+}
+ul,ol,dl{ 
+	font-size: 30px;
+ color: black;
+ margin-left: 75px;
+}
+.fl li: marker{
+	color: black;
+}
+@counter-style circled-digits {
+  system: fixed;
+  symbols: 😀 👻 👽 💋 👾 🤖 🎃 😹 👋 👀 💋;
+  suffix: " ";
+}
+ul.il {
+  list-style: circled-digits;
+}
